@@ -20,9 +20,11 @@ A lightweight unit conversion app built using **Python** and **CustomTkinter (CT
    cd simple-conversion-app
 
 2. **Installation Dependencies**
+   ```bash
    pip install customtkinter
    
 3. **Run The App**
+   ```bash
    python main.py
 
 
